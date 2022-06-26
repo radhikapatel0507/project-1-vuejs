@@ -1,5 +1,6 @@
 # project-1-vuejs
 
+hello this v2!
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
